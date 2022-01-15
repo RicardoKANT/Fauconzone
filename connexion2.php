@@ -1,0 +1,1 @@
+<?php require('views/connexion2.view.php');?>
